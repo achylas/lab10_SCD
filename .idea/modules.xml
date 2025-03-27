@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" filepath="$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePatternExample/FacadePatternExample.iml" filepath="$PROJECT_DIR$/FacadePatternExample/FacadePatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPatternExample/ProxyPatternExample.iml" filepath="$PROJECT_DIR$/ProxyPatternExample/ProxyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab10.iml" filepath="$PROJECT_DIR$/.idea/lab10.iml" />
+    </modules>
+  </component>
+</project>
